@@ -1,5 +1,5 @@
 # School-Database-Management-System
-This is a simple project to create a sytem to store and manage the student's data.
+This is a simple project to create a system to store and manage the student's data.
 # About Project
 Here I have used Python for creating a front-end interface for user on the terminal and linking it to SQL Database to store all the data manage it using SQL queries.
 # Prerequisites
